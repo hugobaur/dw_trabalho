@@ -3,6 +3,7 @@
 <%--
 - Clientes não poderão comprar passagens no mesmo dia
 --%>
+<!-- hugo editou -->
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
 <head>
